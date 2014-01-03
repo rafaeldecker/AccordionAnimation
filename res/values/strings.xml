@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">br.com.rafaeldecker.accordion</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="expand_collapse">Abrir/Fechar</string>
+    <string name="title">Lorem ipsum dolor sit amet, erat vocent explicari ei est, eam ut splendide concludaturque. Cu oporteat lobortis efficiendi ius, dicta eleifend salutatus eu eum. An eam verear accusamus. No mutat numquam cum.</string>
+    <string name="content_text">Sit et mundi possit accumsan, ex ius melius vocent tibique. Id zril delenit vix. Velit scripta discere ne vel, ei vide affert cum. Simul essent ea mel..</string>
+
+</resources>
